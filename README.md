@@ -2,8 +2,6 @@
 TryHackMe Phishing Lab - Full phishing campaign simulation using GoPhish, OSINT, spoofed domains, and HTML harvesters for red team ops.
 By Ramyar Daneshgar 
 
-Here is a highly technical write-up of the **TryHackMe Phishing Room** with detailed explanations and lessons learned. I’ve structured it by task and written from a first-person perspective to simulate a report or blog post for showcasing your red teaming capabilities:
-
 ---
 
 **Objective:** Simulate and execute a full phishing engagement, from reconnaissance to payload delivery, using GoPhish and realistic attack vectors.
